@@ -50,6 +50,16 @@
         "Date": "2022-12-08T00:00:00"
     },
     {
+        "Title": "Tea/Coffee",
+        "Details": "Tea/coffee and pastries will be available to start the morning.",
+        "Start": "2022-12-09T09:00:00",
+        "End": "2022-12-09T09:15:00",
+        "Day": 1,
+        "Location": "Mezzanine Suite",
+        "Time": "09:00:00",
+        "Date": "2022-12-09T00:00:00"
+    },
+    {
         "Title": "Monthly Update",
         "Details": "Jimmy Cahill will be delivering the December monthly update announcement.",
         "Start": "2022-12-09T09:15:00",
