@@ -110,6 +110,16 @@
         "Date": "2022-12-09T00:00:00"
     },
     {
+        "Title": "Warm Up Cocktails",
+        "Details": "Meet in the bar downstairs to warm up for the main event.",
+        "Start": "2022-12-09T19:30:00",
+        "End": "2022-12-09T20:00:00",
+        "Day": 1,
+        "Location": "Roly's Bistro",
+        "Time": "19:30:00",
+        "Date": "2022-12-09T00:00:00"
+    },
+    {
         "Title": "Christmas Party",
         "Details": "The Grand Celebration - Dinner in Roly's Bistro.",
         "Start": "2022-12-09T20:00:00",
