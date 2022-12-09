@@ -63,7 +63,7 @@
         "Title": "Morning Fueling",
         "Details": "Tea/coffee and pastries will be available to start the morning.",
         "Start": "2022-12-09T09:00:00",
-        "End": "2022-12-09T09:15:00",
+        "End": "2022-12-09T09:45:00",
         "Day": 1,
         "Location": "Mezzanine Suite",
         "Time": "09:00:00",
@@ -72,8 +72,8 @@
     {
         "Title": "Yearly Review",
         "Details": "Jimmy will be delivering the December monthly update and a yearly review.",
-        "Start": "2022-12-09T09:15:00",
-        "End": "2022-12-09T10:00:00",
+        "Start": "2022-12-09T09:45:00",
+        "End": "2022-12-09T10:15:00",
         "Day": 1,
         "Location": "Mezzanine Suite",
         "Time": "09:15:00",
@@ -82,7 +82,7 @@
     {
         "Title": "Show and Tell",
         "Details": "Some entertaining presentations delivered by Fergus, Saulo, Alex, Josh, Christine and Brian.",
-        "Start": "2022-12-09T10:00:00",
+        "Start": "2022-12-09T10:15:00",
         "End": "2022-12-09T11:30:00",
         "Day": 1,
         "Location": "Mezzanine Suite",
